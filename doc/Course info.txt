@@ -1,0 +1,32 @@
+Course info: https://www.coursera.org/course/interactivepython
+
+Preparation: Python Pocket Reference (O'Reilly)
+
+
+Concepts and examples: https://class.coursera.org/interactivepython-2012-001/wiki/view?page=week1
+
+
+Syllabus: http://www.codeskulptor.org/coursera/syllabus.html
+
+ Week	Topics										Mini-project
+ 1	Expressions, variables, functions, conditionals					"Rock-Paper-Scissors-Lizard-Spock" game
+ 2	Event-driven programming, local and global variables, buttons and input fields	"Guess the Number" game
+ 3	The canvas, static drawing, timers, interactive drawing				Stopwatch: The Game
+ 4	Lists, keyboard input, motion, positional/velocity control			"Pong" game
+ 5	Mouse input, more lists, dictionaries, images					"Memory" game
+ 6	Classes, tiled images								"Blackjack" game
+ 7	Acceleration and friction, spaceship class, sprite class, sound			Spaceship from "RiceRocks" game
+ 8	Sets, groups of sprites, collisions, sprite animation				Full "RiceRocks" game
+
+
+## SimpleGUI program template
+# Import the module
+import simplegui
+# Define global variables (program state)
+# Define "helper" functions
+# Define event handler functions
+# Create a frame
+# Register event handlers
+# Start frame and timers
+
+
